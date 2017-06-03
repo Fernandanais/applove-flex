@@ -80,7 +80,14 @@ body {
 	font-weight: bold;
 }
 
-
+footer{
+	color: #fff;
+ display: flex;
+	text-align: center;
+	justify-content: center;
+  height: 70px;
+  background-color: #373b47;
+}
 
 
 
