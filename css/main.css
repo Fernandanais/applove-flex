@@ -75,11 +75,22 @@ body {
 	flex-wrap: wrap;
 }
 
-.box-services{
-	font-size: 1.2em;
-	font-weight: bold;
+#work{
+	text-align: center;
+	padding: 70px;
+	align-items: baseline;
 }
 
+#work.flex-container{
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.box-work{
+	justify-content: space-around;
+	width: 33%;
+	padding-top: 60px;
+}
 footer{
 	color: #fff;
  display: flex;
